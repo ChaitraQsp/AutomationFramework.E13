@@ -9,7 +9,7 @@ public class TestNGPractice {
 	public void demo()
 	{
 		//Assert.fail();
-		System.out.println("This is demo");
+		System.out.println("This is demfffo");
 	}
 	
 	@Test
