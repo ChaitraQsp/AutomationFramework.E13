@@ -16,6 +16,8 @@ public class TestNGPractice {
 	public void sample()
 	{
 		System.out.println("This is sample");
+		System.out.println("This is sample");
+		System.out.println("This is sample");
 	}
 
 }
